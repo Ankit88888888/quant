@@ -1,0 +1,1 @@
+Rename-Computer -NewName "OnSite" -DomainCredential Administrator\Welcome01 -Restart
