@@ -1,1 +1,1 @@
-Rename-Computer -NewName "OnSite" -Restart
+Rename-Computer -NewName "RemoteSite" -Restart
